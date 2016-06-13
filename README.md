@@ -1,2 +1,2 @@
-# java-application-manager
-A computer application manager written in Java and JavaFX
+# 2016 Summer Programs
+Programs I wrote.
